@@ -1,0 +1,963 @@
+2020-11-17 20:37:20 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 20:37:20 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '691bd1d0a55c78b7732ac904c69bc41320ad77d0f17cb0a59f4b08324cc72c72a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ndbKx3pxqP3MrEwy_j9JXTBf-UZVCpHL\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '45992'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=691bd1d0a55c78b7732ac904c69bc41320ad77d0f17cb0a59f4b08324cc72c72a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ndbKx3pxqP3MrEwy_j9JXTBf-UZVCpHL%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605645440.2675
+    'REQUEST_TIME' => 1605645440
+]
+2020-11-17 20:43:53 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 20:43:53 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '46254'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605645833.6254
+    'REQUEST_TIME' => 1605645833
+]
+2020-11-17 20:44:36 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 20:44:36 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '46306'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605645876.5917
+    'REQUEST_TIME' => 1605645876
+]
+2020-11-17 20:44:42 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 20:44:42 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '46332'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605645882.7772
+    'REQUEST_TIME' => 1605645882
+]
+2020-11-17 20:44:49 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 20:44:49 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '46358'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605645889.6484
+    'REQUEST_TIME' => 1605645889
+]
+2020-11-17 20:44:52 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 20:44:52 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '46384'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'REQUEST_TIME_FLOAT' => 1605645892.7961
+    'REQUEST_TIME' => 1605645892
+]
+2020-11-17 20:45:02 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 20:45:02 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '46392'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'REQUEST_TIME_FLOAT' => 1605645902.2465
+    'REQUEST_TIME' => 1605645902
+]
+2020-11-17 20:45:18 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 20:45:18 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '46400'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'REQUEST_TIME_FLOAT' => 1605645918.8212
+    'REQUEST_TIME' => 1605645918
+]
+2020-11-17 20:47:28 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 20:47:28 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '46426'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605646048.5376
+    'REQUEST_TIME' => 1605646048
+]
+2020-11-17 20:49:48 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 20:49:48 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '46508'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605646188.8054
+    'REQUEST_TIME' => 1605646188
+]
+2020-11-17 20:55:24 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 20:55:24 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '46900'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'REQUEST_TIME_FLOAT' => 1605646524.4158
+    'REQUEST_TIME' => 1605646524
+]
+2020-11-17 20:56:14 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 20:56:14 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '46908'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'REQUEST_TIME_FLOAT' => 1605646574.522
+    'REQUEST_TIME' => 1605646574
+]
+2020-11-17 21:12:26 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 21:12:26 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '47480'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'REQUEST_TIME_FLOAT' => 1605647546.3227
+    'REQUEST_TIME' => 1605647546
+]
+2020-11-17 21:12:55 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 21:12:55 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '47488'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'REQUEST_TIME_FLOAT' => 1605647575.0507
+    'REQUEST_TIME' => 1605647575
+]
+2020-11-17 21:14:42 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 21:14:41 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '47716'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'REQUEST_TIME_FLOAT' => 1605647681.9893
+    'REQUEST_TIME' => 1605647681
+]
+2020-11-17 21:16:06 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "my/plus-minus". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-17 21:16:06 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'my/plus-minus'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '47760'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=my%2Fplus-minus'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=my%2Fplus-minus'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'REQUEST_TIME_FLOAT' => 1605647766.3763
+    'REQUEST_TIME' => 1605647766
+]
+2020-11-17 21:24:53 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][ParseError] ParseError: syntax error, unexpected ']' in /home/sanyok/projects/yii2shop/views/layouts/layout.php:62
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(424): yii\base\View->renderFile()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(410): yii\base\Controller->renderContent()
+#3 /home/sanyok/projects/yii2shop/controllers/ShopController.php(13): yii\base\Controller->render()
+#4 [internal function]: app\controllers\ShopController->actionIndex()
+#5 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#6 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#7 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#8 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#9 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#10 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#11 {main}
+2020-11-17 21:24:53 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'shop/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'count' => 2
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '48226'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=shop/index'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=shop/index'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605648293.9494
+    'REQUEST_TIME' => 1605648293
+]

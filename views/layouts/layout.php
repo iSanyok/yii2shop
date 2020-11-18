@@ -62,23 +62,9 @@ AppAsset::register($this);
         ],
     ]);
     NavBar::end();
-//    ?>
-<!--    <div id="wrapper">-->
-<!--        <div id="menu-wrapper">-->
-<!--            <div id="menu" class="container">-->
-<!--                <ul>-->
-<!--                    <li class="current_page_item"><a href="#">Homepage</a></li>-->
-<!--                    <li><a href="#">Services</a></li>-->
-<!--                    <li><a href="#">Blog</a></li>-->
-<!--                    <li><a href="#">Photos</a></li>-->
-<!--                    <li><a href="#">About Us</a></li>-->
-<!--                    <li><a href="#">Links</a></li>-->
-<!--                    <li><a href="#">Contact Us</a></li>-->
-<!--                </ul>-->
-<!--            </div>-->
-<!--        </div>-->
-
-        <?= $content ?>
+    ?>
+    <div style="padding-top: 5em">
+    <?= $content ?>
     </div>
     <div id="footer">
         <p>© 2013 Untitled Inc. All rights reserved. Lorem ipsum dolor sit amet nullam blandit consequat phasellus etiam

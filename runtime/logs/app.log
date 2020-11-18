@@ -961,3 +961,1950 @@ $_SERVER = [
     'REQUEST_TIME_FLOAT' => 1605648293.9494
     'REQUEST_TIME' => 1605648293
 ]
+2020-11-18 10:16:36 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "admin". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 10:16:36 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '41654'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605694596.2075
+    'REQUEST_TIME' => 1605694596
+]
+2020-11-18 10:19:27 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "admin". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 10:19:27 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '41680'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605694767.5294
+    'REQUEST_TIME' => 1605694767
+]
+2020-11-18 10:19:31 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "admin/index". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 10:19:31 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '41694'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/index'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/index'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605694771.4904
+    'REQUEST_TIME' => 1605694771
+]
+2020-11-18 10:19:39 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "admin/index". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 10:19:39 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '41738'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/index'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/index'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605694779.4985
+    'REQUEST_TIME' => 1605694779
+]
+2020-11-18 10:23:51 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "admin". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 10:23:51 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '41928'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605695031.7622
+    'REQUEST_TIME' => 1605695031
+]
+2020-11-18 10:35:29 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "admin/index". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 10:35:29 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '42824'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=admin/admin/index'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605695729.114
+    'REQUEST_TIME' => 1605695729
+]
+2020-11-18 10:45:21 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\base\ErrorException:2] yii\base\ErrorException: Illegal string offset 'type' in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/helpers/BaseHtml.php:501
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/helpers/BaseHtml.php(501): yii\base\ErrorHandler->handleError()
+#1 /home/sanyok/projects/yii2shop/views/admin/admin/index.php(8): yii\helpers\BaseHtml::button()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(348): require('/home/sanyok/pr...')
+#3 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#4 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#5 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(409): yii\base\View->render()
+#6 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(10): yii\base\Controller->render()
+#7 [internal function]: app\controllers\admin\AdminController->actionIndex()
+#8 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#9 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#10 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#11 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#12 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#13 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#14 {main}
+2020-11-18 10:45:21 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '43904'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin%2Fadmin%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin%2Fadmin%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=admin%2Fadmin%2Findex'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605696321.9587
+    'REQUEST_TIME' => 1605696321
+]
+2020-11-18 11:01:45 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: admin/admin/add_category in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php:151
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#3 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 11:01:45 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add_category'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '44994'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin%2Fadmin%2Fadd_category'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin%2Fadmin%2Fadd_category'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=admin%2Fadmin%2Findex'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605697305.1709
+    'REQUEST_TIME' => 1605697305
+]
+2020-11-18 11:01:48 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: admin/admin/add_category in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php:151
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#3 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 11:01:48 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add_category'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '45012'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin%2Fadmin%2Fadd_category'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin%2Fadmin%2Fadd_category'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=admin%2Fadmin%2Findex'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605697308.0232
+    'REQUEST_TIME' => 1605697308
+]
+2020-11-18 11:02:06 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: admin/admin/add_category in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php:151
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#3 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 11:02:06 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add_category'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '45030'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin%2Fadmin%2Fadd_category'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin%2Fadmin%2Fadd_category'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=admin%2Fadmin%2Findex'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605697326.4913
+    'REQUEST_TIME' => 1605697326
+]
+2020-11-18 11:06:49 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: admin/admin/add_category in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php:151
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#3 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 11:06:49 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add_category'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '45268'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin%2Fadmin%2Fadd_category'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin%2Fadmin%2Fadd_category'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=admin%2Fadmin%2Findex'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605697609.325
+    'REQUEST_TIME' => 1605697609
+]
+2020-11-18 11:06:50 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: admin/admin/add_category in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php:151
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#3 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 11:06:50 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add_category'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '45282'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin%2Fadmin%2Fadd_category'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin%2Fadmin%2Fadd_category'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=admin%2Fadmin%2Findex'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605697610.12
+    'REQUEST_TIME' => 1605697610
+]
+2020-11-18 11:07:49 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: admin/admin/add_category in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php:151
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#3 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 11:07:49 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add_category'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '45316'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin%2Fadmin%2Fadd_category'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin%2Fadmin%2Fadd_category'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605697669.8034
+    'REQUEST_TIME' => 1605697669
+]
+2020-11-18 11:07:54 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: admin/admin/add_category in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php:151
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#3 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 11:07:54 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add_category'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '45358'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin%2Fadmin%2Fadd_category'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin%2Fadmin%2Fadd_category'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605697674.7161
+    'REQUEST_TIME' => 1605697674
+]
+2020-11-18 13:03:30 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: admin/admin/add_category in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php:151
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#3 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 13:03:30 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add_category'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '47276'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add_category'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add_category'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605704610.0048
+    'REQUEST_TIME' => 1605704610
+]
+2020-11-18 13:18:11 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\base\ErrorException:8] yii\base\ErrorException: Trying to access array offset on value of type null in /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php:20
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(20): yii\base\ErrorHandler->handleError()
+#1 [internal function]: app\controllers\admin\AdminController->actionAddCategory()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#3 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#4 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#5 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#6 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#7 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#8 {main}
+2020-11-18 13:18:11 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add-category'
+]
+
+$_POST = [
+    '_csrf' => '6EnMRBOohWdY6TL5RSVuekfNhPxyvoiPIUUpx_LlMsPfAL0jX8DfJT-CA54EcAcjMf7DkCX_3Nt2LUKfi6F_sg=='
+    'CategoryForm' => [
+        'name' => 'asd'
+        'description' => 'dsa'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '47622'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add-category'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add-category'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=admin/admin/add-category'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '159'
+    'HTTP_CONTENT_LENGTH' => '159'
+    'HTTP_ORIGIN' => 'http://localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605705491.3137
+    'REQUEST_TIME' => 1605705491
+]
+2020-11-18 13:18:23 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\base\ErrorException:8] yii\base\ErrorException: Trying to access array offset on value of type null in /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php:20
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(20): yii\base\ErrorHandler->handleError()
+#1 [internal function]: app\controllers\admin\AdminController->actionAddCategory()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#3 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#4 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#5 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#6 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#7 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#8 {main}
+2020-11-18 13:18:23 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add-category'
+]
+
+$_POST = [
+    '_csrf' => '6xjnu7X1L9EDitqCWyUmS-a0RdKCmZlbCTGa9nsZH4jcUZbc-Z11k2Th6-UacE8SkIcCvtXYzQ9eWfGuAl1S-Q=='
+    'CategoryForm' => [
+        'name' => 'asdasd'
+        'description' => 'dasd'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '47650'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add-category'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add-category'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '163'
+    'HTTP_CONTENT_LENGTH' => '163'
+    'HTTP_ORIGIN' => 'http://localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=admin/admin/add-category'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605705503.2147
+    'REQUEST_TIME' => 1605705503
+]
+2020-11-18 13:27:09 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The table does not exist: {{%category}} in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/ActiveRecord.php:438
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/ActiveRecord.php(469): yii\db\ActiveRecord::getTableSchema()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/BaseActiveRecord.php(500): yii\db\ActiveRecord->attributes()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/BaseActiveRecord.php(315): yii\db\BaseActiveRecord->hasAttribute()
+#3 /home/sanyok/projects/yii2shop/models/Category.php(18): yii\db\BaseActiveRecord->__set()
+#4 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(24): app\models\Category->storeCategory()
+#5 [internal function]: app\controllers\admin\AdminController->actionAddCategory()
+#6 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#7 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#8 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#9 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#10 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#11 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#12 {main}
+2020-11-18 13:27:09 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add-category'
+]
+
+$_POST = [
+    '_csrf' => '91a8BiN8ir5FkxPv82_GMk0-yfPoWgSNw7PZR7PiYFrAH81hbxTQ_CL4IoiyOq9rOw2On78bUNmU27IfyqYtKw=='
+    'CategoryForm' => [
+        'name' => 'aa'
+        'description' => 'xz'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '47742'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add-category'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add-category'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '157'
+    'HTTP_CONTENT_LENGTH' => '157'
+    'HTTP_ORIGIN' => 'http://localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=admin/admin/add-category'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605706029.1683
+    'REQUEST_TIME' => 1605706029
+]
+2020-11-18 13:36:36 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\db\IntegrityException] PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'zxc' for key 'name' in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Command.php:1299
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Command.php(1299): PDOStatement->execute()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Command.php(1099): yii\db\Command->internalExecute()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Schema.php(433): yii\db\Command->execute()
+#3 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/ActiveRecord.php(600): yii\db\Schema->insert()
+#4 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/ActiveRecord.php(566): yii\db\ActiveRecord->insertInternal()
+#5 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/BaseActiveRecord.php(678): yii\db\ActiveRecord->insert()
+#6 /home/sanyok/projects/yii2shop/models/Category.php(25): yii\db\BaseActiveRecord->save()
+#7 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(24): app\models\Category->storeCategory()
+#8 [internal function]: app\controllers\admin\AdminController->actionAddCategory()
+#9 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#10 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#11 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#12 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#13 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#14 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#15 {main}
+
+Next yii\db\IntegrityException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'zxc' for key 'name'
+The SQL being executed was: INSERT INTO `categories` (`name`, `description`) VALUES ('zxc', 'zxc') in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Schema.php:678
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Command.php(1304): yii\db\Schema->convertException()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Command.php(1099): yii\db\Command->internalExecute()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Schema.php(433): yii\db\Command->execute()
+#3 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/ActiveRecord.php(600): yii\db\Schema->insert()
+#4 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/ActiveRecord.php(566): yii\db\ActiveRecord->insertInternal()
+#5 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/BaseActiveRecord.php(678): yii\db\ActiveRecord->insert()
+#6 /home/sanyok/projects/yii2shop/models/Category.php(25): yii\db\BaseActiveRecord->save()
+#7 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(24): app\models\Category->storeCategory()
+#8 [internal function]: app\controllers\admin\AdminController->actionAddCategory()
+#9 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#10 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#11 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#12 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#13 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#14 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#15 {main}
+Additional Information:
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'zxc' for key 'name'
+)
+
+2020-11-18 13:36:36 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add-category'
+]
+
+$_POST = [
+    '_csrf' => 'dIl8W8oedZMqcbT5xyIadQC9FhUl7q-q_WDOaUAm_6lDwA08hnYv0U0ahZ6Gd3Msdo5ReXKv-_6qCKUxOWKy2A=='
+    'CategoryForm' => [
+        'name' => 'zxc'
+        'description' => 'zxc'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '47832'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add-category'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add-category'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=admin/admin/add-category'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '159'
+    'HTTP_CONTENT_LENGTH' => '159'
+    'HTTP_ORIGIN' => 'http://localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605706596.5954
+    'REQUEST_TIME' => 1605706596
+]
+2020-11-18 13:56:25 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: admin/admin/add-зкщвгсе in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php:151
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#3 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 13:56:25 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add-зкщвгсе'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '48610'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add-%D0%B7%D0%BA%D1%89%D0%B2%D0%B3%D1%81%D0%B5'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add-%D0%B7%D0%BA%D1%89%D0%B2%D0%B3%D1%81%D0%B5'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605707785.7079
+    'REQUEST_TIME' => 1605707785
+]
+2020-11-18 13:56:29 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\base\ErrorException:2] yii\base\ErrorException: The use statement with non-compound name 'Yii' has no effect in /home/sanyok/projects/yii2shop/views/admin/admin/add_product.php:5
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(348): yii\base\ErrorHandler->handleError()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(348): require()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#3 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#4 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(409): yii\base\View->render()
+#5 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(37): yii\base\Controller->render()
+#6 [internal function]: app\controllers\admin\AdminController->actionAddProduct()
+#7 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#8 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#9 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#10 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#11 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#12 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#13 {main}
+2020-11-18 13:56:29 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add-product'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '48626'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add-product'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add-product'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605707789.5919
+    'REQUEST_TIME' => 1605707789
+]
+2020-11-18 14:11:19 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][ArgumentCountError] ArgumentCountError: Too few arguments to function yii\db\BaseActiveRecord::findAll(), 0 passed in /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php on line 37 and exactly 1 expected in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/BaseActiveRecord.php:119
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(37): yii\db\BaseActiveRecord::findAll()
+#1 [internal function]: app\controllers\admin\AdminController->actionAddProduct()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#3 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#4 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#5 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#6 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#7 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#8 {main}
+2020-11-18 14:11:18 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add-product'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '48958'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add-product'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add-product'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605708678.9973
+    'REQUEST_TIME' => 1605708678
+]
+2020-11-18 14:18:50 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\base\ErrorException:8] yii\base\ErrorException: Array to string conversion in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/helpers/BaseHtml.php:1867
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 [internal function]: strval()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/helpers/BaseHtml.php(1867): array_map()
+#3 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/helpers/BaseHtml.php(838): yii\helpers\BaseHtml::renderSelectOptions()
+#4 /home/sanyok/projects/yii2shop/views/admin/admin/add_product.php(10): yii\helpers\BaseHtml::dropDownList()
+#5 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(348): require('/home/sanyok/pr...')
+#6 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#7 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#8 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(409): yii\base\View->render()
+#9 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(39): yii\base\Controller->render()
+#10 [internal function]: app\controllers\admin\AdminController->actionAddProduct()
+#11 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#12 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#13 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#14 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#15 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#16 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2020-11-18 14:18:50 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add-product'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '49112'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add-product'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add-product'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605709130.4445
+    'REQUEST_TIME' => 1605709130
+]
+2020-11-18 14:22:22 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Getting unknown property: app\models\ProductForm::category in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Component.php:155
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/helpers/BaseHtml.php(2244): yii\base\Component->__get()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/helpers/BaseHtml.php(1836): yii\helpers\BaseHtml::getAttributeValue()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/helpers/BaseHtml.php(1674): yii\helpers\BaseHtml::activeListInput()
+#3 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/widgets/ActiveField.php(654): yii\helpers\BaseHtml::activeDropDownList()
+#4 /home/sanyok/projects/yii2shop/views/admin/admin/add_product.php(10): yii\widgets\ActiveField->dropDownList()
+#5 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(348): require('/home/sanyok/pr...')
+#6 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#7 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#8 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(409): yii\base\View->render()
+#9 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(39): yii\base\Controller->render()
+#10 [internal function]: app\controllers\admin\AdminController->actionAddProduct()
+#11 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#12 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#13 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#14 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#15 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#16 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2020-11-18 14:22:22 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add-product'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '49308'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add-product'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add-product'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605709342.8674
+    'REQUEST_TIME' => 1605709342
+]
+2020-11-18 15:20:22 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][ArgumentCountError] ArgumentCountError: Too few arguments to function yii\helpers\BaseArrayHelper::map(), 2 passed in /home/sanyok/projects/yii2shop/views/admin/admin/add_product.php on line 10 and at least 3 expected in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/helpers/BaseArrayHelper.php:585
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/views/admin/admin/add_product.php(10): yii\helpers\BaseArrayHelper::map()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(348): require('/home/sanyok/pr...')
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#3 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#4 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(409): yii\base\View->render()
+#5 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(39): yii\base\Controller->render()
+#6 [internal function]: app\controllers\admin\AdminController->actionAddProduct()
+#7 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#8 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#9 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#10 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#11 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#12 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#13 {main}
+2020-11-18 15:20:22 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add-product'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '50916'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add-product'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add-product'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605712821.8474
+    'REQUEST_TIME' => 1605712821
+]
+2020-11-18 15:22:25 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][ParseError] ParseError: syntax error, unexpected '(' in /home/sanyok/projects/yii2shop/views/admin/admin/add_product.php:10
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(409): yii\base\View->render()
+#3 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(39): yii\base\Controller->render()
+#4 [internal function]: app\controllers\admin\AdminController->actionAddProduct()
+#5 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#6 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#7 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#8 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#9 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#10 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#11 {main}
+2020-11-18 15:22:25 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add-product'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '50982'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add-product'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add-product'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605712945.2703
+    'REQUEST_TIME' => 1605712945
+]
+2020-11-18 15:22:42 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][ParseError] ParseError: syntax error, unexpected '(' in /home/sanyok/projects/yii2shop/views/admin/admin/add_product.php:10
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(409): yii\base\View->render()
+#3 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(39): yii\base\Controller->render()
+#4 [internal function]: app\controllers\admin\AdminController->actionAddProduct()
+#5 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#6 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#7 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#8 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#9 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#10 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#11 {main}
+2020-11-18 15:22:41 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add-product'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '50988'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add-product'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add-product'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605712961.9836
+    'REQUEST_TIME' => 1605712961
+]
+2020-11-18 15:28:16 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined index: text in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/helpers/BaseHtml.php:1879
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/helpers/BaseHtml.php(1879): yii\base\ErrorHandler->handleError()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/helpers/BaseHtml.php(838): yii\helpers\BaseHtml::renderSelectOptions()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/helpers/BaseHtml.php(1844): yii\helpers\BaseHtml::dropDownList()
+#3 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/helpers/BaseHtml.php(1674): yii\helpers\BaseHtml::activeListInput()
+#4 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/widgets/ActiveField.php(654): yii\helpers\BaseHtml::activeDropDownList()
+#5 /home/sanyok/projects/yii2shop/views/admin/admin/add_product.php(12): yii\widgets\ActiveField->dropDownList()
+#6 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(348): require('/home/sanyok/pr...')
+#7 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#8 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#9 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(409): yii\base\View->render()
+#10 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(39): yii\base\Controller->render()
+#11 [internal function]: app\controllers\admin\AdminController->actionAddProduct()
+#12 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#13 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#14 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#15 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#16 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#17 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#18 {main}
+2020-11-18 15:28:16 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add-product'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '51172'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add-product'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add-product'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1605713296.0364
+    'REQUEST_TIME' => 1605713296
+]
+2020-11-18 15:37:10 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Getting unknown property: app\models\ProductForm::id in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Component.php:155
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/validators/Validator.php(258): yii\base\Component->__get()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Model.php(368): yii\validators\Validator->validateAttributes()
+#2 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(41): yii\base\Model->validate()
+#3 [internal function]: app\controllers\admin\AdminController->actionAddProduct()
+#4 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#5 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#6 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#7 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#8 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#9 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#10 {main}
+2020-11-18 15:37:10 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add-product'
+]
+
+$_POST = [
+    '_csrf' => 'JoO_f4VG4EOWyYXnIbH38JGQhNHveqhM9bTNCliRZjMRys4YyS66AfGitIBg5J6p56PDvbg7_Bii3KZSIdUrQg=='
+    'ProductForm' => [
+        'category_id' => '3'
+        'name' => 'product'
+        'description' => 'product desc'
+        'photo' => ''
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '51262'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add-product'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add-product'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '225'
+    'HTTP_CONTENT_LENGTH' => '225'
+    'HTTP_ORIGIN' => 'http://localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=admin/admin/add-product'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605713830.5016
+    'REQUEST_TIME' => 1605713830
+]
+2020-11-18 15:37:31 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\db\IntegrityException] PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'product' for key 'name' in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Command.php:1299
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Command.php(1299): PDOStatement->execute()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Command.php(1099): yii\db\Command->internalExecute()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Schema.php(433): yii\db\Command->execute()
+#3 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/ActiveRecord.php(600): yii\db\Schema->insert()
+#4 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/ActiveRecord.php(566): yii\db\ActiveRecord->insertInternal()
+#5 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/BaseActiveRecord.php(678): yii\db\ActiveRecord->insert()
+#6 /home/sanyok/projects/yii2shop/models/Product.php(28): yii\db\BaseActiveRecord->save()
+#7 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(47): app\models\Product->storeProduct()
+#8 [internal function]: app\controllers\admin\AdminController->actionAddProduct()
+#9 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#10 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#11 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#12 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#13 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#14 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#15 {main}
+
+Next yii\db\IntegrityException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'product' for key 'name'
+The SQL being executed was: INSERT INTO `products` (`category_id`, `name`, `description`, `photo`) VALUES (3, 'product', 'product desc', 'photo') in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Schema.php:678
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Command.php(1304): yii\db\Schema->convertException()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Command.php(1099): yii\db\Command->internalExecute()
+#2 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/Schema.php(433): yii\db\Command->execute()
+#3 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/ActiveRecord.php(600): yii\db\Schema->insert()
+#4 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/ActiveRecord.php(566): yii\db\ActiveRecord->insertInternal()
+#5 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/db/BaseActiveRecord.php(678): yii\db\ActiveRecord->insert()
+#6 /home/sanyok/projects/yii2shop/models/Product.php(28): yii\db\BaseActiveRecord->save()
+#7 /home/sanyok/projects/yii2shop/controllers/admin/AdminController.php(47): app\models\Product->storeProduct()
+#8 [internal function]: app\controllers\admin\AdminController->actionAddProduct()
+#9 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#10 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams()
+#11 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#12 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#13 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#14 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#15 {main}
+Additional Information:
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'product' for key 'name'
+)
+
+2020-11-18 15:37:31 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin/add-product'
+]
+
+$_POST = [
+    '_csrf' => 'Bpg_PjfVNuyWnXxXfwoWGdHtiEiefu5UbUQGpNjg7HYx0U5Ze71srvH2TTA-X39Ap97PJMk_ugA6LG38oaShBw=='
+    'ProductForm' => [
+        'category_id' => '3'
+        'name' => 'product'
+        'description' => 'product desc'
+        'photo' => ''
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => [
+        'success' => -1
+    ]
+    'success' => 'Товар успешно добавлен!'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '51290'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/admin/add-product'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/admin/add-product'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '225'
+    'HTTP_CONTENT_LENGTH' => '225'
+    'HTTP_ORIGIN' => 'http://localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=admin/admin/add-product'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605713851.0966
+    'REQUEST_TIME' => 1605713851
+]
+2020-11-18 15:47:03 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "admin/". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 15:47:03 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '51562'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin/'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605714423.417
+    'REQUEST_TIME' => 1605714423
+]
+2020-11-18 15:58:36 [::1][-][g5tti317jehgnqi12bgl5f89aq][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "admin/admin%2". in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php(104): yii\base\Module->runAction()
+#1 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#2 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Страница не найдена. in /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/web/Application.php:116
+Stack trace:
+#0 /home/sanyok/projects/yii2shop/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Application->handleRequest()
+#1 /home/sanyok/projects/yii2shop/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2020-11-18 15:58:36 [::1][-][g5tti317jehgnqi12bgl5f89aq][info][application] $_GET = [
+    'r' => 'admin/admin%2'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'g5tti317jehgnqi12bgl5f89aq'
+    '_csrf' => '3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"7IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/sanyok/projects/yii2shop/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '51902'
+    'SERVER_SOFTWARE' => 'PHP 7.4.11 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=admin%2Fadmin%2'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/sanyok/projects/yii2shop/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=admin%2Fadmin%2'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=g5tti317jehgnqi12bgl5f89aq; _csrf=3b748831ac5173bd14071b63bb774e8c03b77601b091cfce27e0c4a3ce9df058a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227IqgLhZBgk1gAUiYv3GlWATTWhkXyDMq%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1605715116.7963
+    'REQUEST_TIME' => 1605715116
+]

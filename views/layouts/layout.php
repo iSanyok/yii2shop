@@ -45,8 +45,8 @@ AppAsset::register($this);
         'options' => ['class' => 'navbar-nav navbar-right'],
         'items' => [
             ['label' => 'Категории', 'url' => ['/site/index']],
-            ['label' => 'Корзина', 'url' => ['/site/about']],
-            ['label' => 'Наши магазины', 'url' => ['/site/contact']],
+            ['label' => 'Корзина', 'url' => ['/cart/cart']],
+            ['label' => 'Наши магазины', 'url' => ['/cart/cart']],
 //            Yii::$app->user->isGuest ? (
 //            ['label' => 'Login', 'url' => ['/site/login']]
 //            ) : (

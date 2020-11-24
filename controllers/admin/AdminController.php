@@ -57,7 +57,8 @@ class AdminController extends Controller
                 $product->storeProduct(
                     Yii::$app->request->post('ProductForm')['category_id'],
                     Yii::$app->request->post('ProductForm')['name'],
-                    Yii::$app->request->post('ProductForm')['description']
+                    Yii::$app->request->post('ProductForm')['description'],
+                    Yii::$app->request->post('ProductForm')['price']
                 );
 
                 Yii::$app->session->setFlash('success', 'Товар успешно добавлен!');

@@ -24,6 +24,7 @@ use yii\widgets\ActiveForm;
     <?= $form->field($model, 'category_id')->dropDownList(ArrayHelper::map($categories, 'id', 'name'),
         ['prompt' => 'Выберите категорию']) ?>
     <?= $form->field($model, 'name')->textInput(); ?>
+    <?= $form->field($model, 'price')->textInput(); ?>
     <?= $form->field($model, 'description')->textarea(); ?>
     <?= $form->field($model, 'photo')->textInput() ?>
     <?= Html::submitButton('Добавить товар', ['class' => 'btn btn-success']); ?>

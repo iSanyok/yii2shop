@@ -12,6 +12,7 @@ class ProductForm extends Model
     public $name;
     public $description;
     public $photo;
+    public $price;
 
     public function attributeLabels()
     {
@@ -19,14 +20,15 @@ class ProductForm extends Model
             'name' => 'Название товара',
             'description' => 'Описание товара',
             'category_id' => 'Название категории',
+            'price' => 'Цена товара',
         ];
     }
 
     public function rules()
     {
         return [
-            [['name', 'description', 'category_id'], 'required'],
-            ['category_id', 'integer'],
+            [['name', 'description', 'category_id', 'price'], 'required'],
+            [['category_id', 'price'], 'integer'],
         ];
     }
 

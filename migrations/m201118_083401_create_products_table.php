@@ -16,6 +16,7 @@ class m201118_083401_create_products_table extends Migration
             'id' => $this->primaryKey(),
             'category_id' => $this->integer(),
             'name' => $this->string()->unique(),
+            'price' => $this->integer(),
             'description' => $this->string(),
             'photo' => $this->string(),
         ]);

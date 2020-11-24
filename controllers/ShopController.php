@@ -4,12 +4,15 @@
 namespace app\controllers;
 
 
+use app\models\Product;
 use yii\web\Controller;
 
 class ShopController extends Controller
 {
     public function actionIndex()
     {
-        return $this->render('index');
+        $products = Product::find()->all();
+
+        return $this->render('index', ['products' => $products]);
     }
 }

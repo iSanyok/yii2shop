@@ -62,6 +62,6 @@ class ProductController extends Controller
 
     private function response($code, $message, $count = 1)
     {
-        return [$code, $message, $count];
+        return ['code' => $code, 'message' => $message, 'count' => $count];
     }
 }

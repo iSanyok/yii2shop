@@ -8,6 +8,7 @@ use app\models\Product;
 use app\models\ProductForm;
 use yii\web\Controller;
 use Yii;
+use yii\web\UploadedFile;
 
 class AdminController extends Controller
 {
@@ -54,13 +55,14 @@ class AdminController extends Controller
 
                 Yii::$app->session->setFlash('error', 'Товар товар с таким именем уже существует!');
             } else {
-                $product->storeProduct(
-                    Yii::$app->request->post('ProductForm')['category_id'],
-                    Yii::$app->request->post('ProductForm')['name'],
-                    Yii::$app->request->post('ProductForm')['description'],
-                    Yii::$app->request->post('ProductForm')['price']
-                );
 
+                $model->photo = UploadedFile::getInstance($model, 'photo');
+                $model->upload();
+
+                $data = Yii::$app->request->post('ProductForm');
+                $data['photo'] = $model->photo->name;
+
+                $product->storeProduct($data);
                 Yii::$app->session->setFlash('success', 'Товар успешно добавлен!');
             }
         }

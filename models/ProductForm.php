@@ -21,6 +21,7 @@ class ProductForm extends Model
             'description' => 'Описание товара',
             'category_id' => 'Название категории',
             'price' => 'Цена товара',
+            'photo' => 'Изображение товара'
         ];
     }
 
@@ -29,7 +30,18 @@ class ProductForm extends Model
         return [
             [['name', 'description', 'category_id', 'price'], 'required'],
             [['category_id', 'price'], 'integer'],
+            [['photo'],  'file', 'extensions' => 'png, jpg'],
         ];
+    }
+
+    public function upload()
+    {
+        if($this->photo){
+            $this->photo->saveAs("uploads/{$this->photo->baseName}.{$this->photo->extension}");
+            return true;
+        } else {
+            return false;
+        }
     }
 
 }

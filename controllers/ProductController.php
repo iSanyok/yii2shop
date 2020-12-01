@@ -7,6 +7,8 @@ namespace app\controllers;
 use app\models\Product;
 use Yii;
 use yii\web\Controller;
+use yii\web\JsonResponseFormatter;
+use yii\web\Response;
 
 class ProductController extends Controller
 {
@@ -38,7 +40,9 @@ class ProductController extends Controller
                             $session['products'] = $products;
                             $session->close();
 
-                            return 'Товар добавлен в корзину';
+                            return $this->asJson($this->response(200,
+                                'Товар добавлен в корзину',
+                                $products[$key]['count']));
                         }
                     }
                     $products[] = ['product' => $product, 'count' => 1];
@@ -50,9 +54,14 @@ class ProductController extends Controller
                 $session['products'] = $products;
                 $session->close();
 
-                return 'Товар добавлен в корзину';
+                return $this->asJson($this->response(200, 'Товар добавлен в корзину'));
             }
         }
-        return false;
+        return $this->response(500, 'Произошла какая-то ошибка');
+    }
+
+    private function response($code, $message, $count = 1)
+    {
+        return [$code, $message, $count];
     }
 }

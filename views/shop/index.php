@@ -29,7 +29,7 @@ $this->title = 'Главная';
     <div class="tbox<?= ($i % 3) + 1 ?>">
         <div class="box-style">
             <div class="content">
-                <div class="image"><img src="images/img01.jpg" width="324" height="200" alt=""/></div>
+                <div class="image"><img src="uploads/<?= $products[$i]->photo ?>" width="324" height="200" alt=""/></div>
                 <h2><?= $products[$i]->name ?></h2>
                 <p>Цена: <?= $products[$i]->price ?></p>
                 <a href="<?= Url::to(['product/show', 'id' => $products[$i]->id]) ?>" class="button">Подробнее</a>

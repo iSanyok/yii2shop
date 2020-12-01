@@ -18,14 +18,14 @@ class Product extends ActiveRecord
         return $this->hasMany(Product::class, ['category_id' => 'id']);
     }
 
-    public function storeProduct($category_id, $name, $description, $price)
+    public function storeProduct($form)
     {
         $product = new Product();
-        $product->category_id = $category_id;
-        $product->name = $name;
-        $product->description = $description;
-        $product->price = $price;
-        $product->photo = 'photo';
+        $product->category_id = $form['category_id'];
+        $product->name = $form['name'];
+        $product->description = $form['description'];
+        $product->price = $form['price'];
+        $product->photo = $form['photo'];
         $product->save();
     }
 }

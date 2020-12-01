@@ -1,5 +1,12 @@
 <div style="margin-left: 5em;">
     <div>
+        <label class="alert-success alert" hidden></label>
+        <label class="alert-danger alert" hidden></label>
+    </div>
+    <div>
+        <img src="uploads/<?= $product->photo ?>" alt="something gone wrong">
+    </div>
+    <div>
         <label class="title"><?= $product->name ?></label>
     </div>
     <div>
@@ -23,11 +30,10 @@ let product_id = "$product->id";
             type: 'POST',
             data: {id: product_id},
             success: function(res) {
-                alert(window.location.pathname);
-                console.log(res);
+                $('.alert-success').html(res.message).show();
             },
-            error: function() {
-                alert('Error!');
+            error: function(res) {
+                $('.alert-danger').text(res.message).show();
             }
         });
     });

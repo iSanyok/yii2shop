@@ -26,7 +26,7 @@ use yii\widgets\ActiveForm;
     <?= $form->field($model, 'name')->textInput(); ?>
     <?= $form->field($model, 'price')->textInput(); ?>
     <?= $form->field($model, 'description')->textarea(); ?>
-    <?= $form->field($model, 'photo')->textInput() ?>
+    <?= $form->field($model, 'photo')->fileInput() ?>
     <?= Html::submitButton('Добавить товар', ['class' => 'btn btn-success']); ?>
     <?php $form->end(); ?>
 </div>

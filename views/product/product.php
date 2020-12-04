@@ -4,16 +4,16 @@
         <label class="alert-danger alert" hidden></label>
     </div>
     <div>
-        <img src="uploads/<?= $product->photo ?>" alt="something gone wrong">
+        <img src="uploads/<?= $product->photo ?>" alt="something gone wrong" width="300" height="500">
     </div>
     <div>
-        <label class="title"><?= $product->name ?></label>
+        <label class="title">Название: <?= $product->name ?></label>
     </div>
     <div>
-        <label class="title"><?= $product->description ?></label>
+        <label class="title">Описание: <?= $product->description ?></label>
     </div>
     <div>
-        <label class="title"><?= $product->price ?></label>
+        <label class="title">Цена: <?= $product->price ?></label>
     </div>
     <div>
         <button class="btn btn-success">Добавить в корзину</button>

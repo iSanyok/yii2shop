@@ -10,6 +10,10 @@ class CartController extends Controller
 {
     public function actionCart()
     {
-        return $this->render('cart', ['products' => Yii::$app->session->get('products')]);
+        if(!Yii::$app->session['products']){
+            return $this->render('cart', ['products' => null]);
+        } else {
+            return $this->render('cart', ['products' => Yii::$app->session->get('products')]);
+        }
     }
 }
